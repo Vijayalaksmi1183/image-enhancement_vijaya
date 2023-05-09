@@ -15,5 +15,5 @@ year = {2022},
 issn = {1051-2004},
 doi = {https://doi.org/10.1016/j.dsp.2022.103532},
 url = {https://www.sciencedirect.com/science/article/pii/S105120042200149X},
-author = {D. Vijayalakshmi and Malaya Kumar Nath},
+author = {D. Vijayalakshmi and Malaya Kumar Nath}
 }
